@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Memory-Card-Pokemon/static/css/main.ddb9471c.css",
+    "main.js": "/Memory-Card-Pokemon/static/js/main.56d1528f.js",
+    "static/media/background.jpg": "/Memory-Card-Pokemon/static/media/background.65abf118f94058fc8b60.jpg",
+    "static/media/charizard.png": "/Memory-Card-Pokemon/static/media/charizard.aefeffe0c812b8b24d3a.png",
+    "static/media/bulbasaur.png": "/Memory-Card-Pokemon/static/media/bulbasaur.8dc148b8827acd3938c4.png",
+    "static/media/blastoise.png": "/Memory-Card-Pokemon/static/media/blastoise.c5e0bdd58760542d8152.png",
+    "static/media/venasuar.jpg": "/Memory-Card-Pokemon/static/media/venasuar.9442650b348f644b14ff.jpg",
+    "static/media/pikachu.jpg": "/Memory-Card-Pokemon/static/media/pikachu.87f453f9ce807cf0e75a.jpg",
+    "static/media/mewtwo.jpg": "/Memory-Card-Pokemon/static/media/mewtwo.6fc59901911e573634f0.jpg",
+    "static/media/mew.jpg": "/Memory-Card-Pokemon/static/media/mew.101d87c62b30f9c4227d.jpg",
+    "static/media/pidgy.jpg": "/Memory-Card-Pokemon/static/media/pidgy.3b2edca0c5583be1080d.jpg",
+    "static/media/charmander.jpg": "/Memory-Card-Pokemon/static/media/charmander.c0054b3535f538f21935.jpg",
+    "static/media/squirtle.jpg": "/Memory-Card-Pokemon/static/media/squirtle.0a2522b3bbeb55a6b608.jpg",
+    "index.html": "/Memory-Card-Pokemon/index.html",
+    "main.ddb9471c.css.map": "/Memory-Card-Pokemon/static/css/main.ddb9471c.css.map",
+    "main.56d1528f.js.map": "/Memory-Card-Pokemon/static/js/main.56d1528f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddb9471c.css",
+    "static/js/main.56d1528f.js"
+  ]
+}
