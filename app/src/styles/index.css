@@ -1,0 +1,24 @@
+body {
+  background-image: url("../images/background.jpg");
+  background-position: center;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+  background-color: black;
+  color: #b8860b;
+  font-family: "Acme";
+}
+
+.score-container {
+  display: flex;
+  justify-content: right;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
